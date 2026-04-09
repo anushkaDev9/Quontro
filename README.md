@@ -8,5 +8,5 @@ add  any packages that installing in this file so everyone can access it
 write the .env variables for google docs 
 ## Steps to run frontend
 ### Step1 download packages
-run npm install in the frontend folder 
+run npm install in the frontend folder <br/>
 npm start -> start the frontend
