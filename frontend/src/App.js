@@ -23,15 +23,22 @@ function App() {
       </header>
 
       <main className="main-content">
-        <h2>AI-Powered Investment Analysis</h2>
-            <div className="home">
-      <section className="hero">
-        <h1>Welcome to Quontro Finance</h1>
-        <p>
-          Smarter investing powered by AI. Analyze stocks, understand market
+       <div className="hero-content">
+          <div className="hero-left">
+            <h1>Multi-AI Financial Decision Intelligence</h1>
+            <p className="subtitle">Welcome to Quontro Finance</p>
+
+            <p className="description">
+              Smarter investing powered by AI. Analyze stocks, understand market
           trends, and make confident financial decisions in seconds.
-        </p>
-      </section>
+            </p>
+
+            <div className="hero-actions">
+              <button className="primary-btn">Request a Demo</button>
+              <button className="secondary-btn">Learn More</button>
+            </div>
+          </div>
+
 
       <section className="features">
         <h2>What We Offer</h2>
