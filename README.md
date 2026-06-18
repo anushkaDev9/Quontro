@@ -74,7 +74,7 @@ Quontro's core architecture is powered by three specialized AI agents that work 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/zeelthakkar02/Quontroo.git
+git clone https://github.com/anushkaDev9/Quontro
 cd Quontroo
 ```
 
