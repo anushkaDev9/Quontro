@@ -75,7 +75,7 @@ Quontro's core architecture is powered by three specialized AI agents that work 
 
 ```bash
 git clone https://github.com/anushkaDev9/Quontro
-cd Quontroo
+cd Quontro
 ```
 
 ### Install Dependencies
@@ -99,7 +99,7 @@ npm start
 ## 📂 Project Structure
 
 ```text
-Quontroo/
+Quontro/
 ├── frontend/
 ├── backend/
 ├── homepage.png
